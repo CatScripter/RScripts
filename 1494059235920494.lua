@@ -1,0 +1,7 @@
+print("Found Place.")
+wait(0.1)
+print("Found Place..")
+wait(0.1)
+print("Found Place...")
+wait(0.1)
+print("Place Was Found In List,Now You Run Script With Key System!")
